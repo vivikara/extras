@@ -1,6 +1,6 @@
 # Εργαλεία και Τεχνικές{.title}
 
-~~~{.quote}
+~~~{.quote include=feynman-understand.md}
 ~~~
 
 ##Περίληψη

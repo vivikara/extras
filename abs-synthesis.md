@@ -1,6 +1,6 @@
 # Σύνθεση{.title}
 
-~~~{.quote}
+~~~{.quote include=licklider-augmentation.md}
 ~~~
 
 ## Περίληψη

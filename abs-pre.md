@@ -1,5 +1,5 @@
 # Πρόλογος{.title}
 
-~~~{.quote}
+~~~{.quote include=aristotle-learning.md}
 ~~~
 

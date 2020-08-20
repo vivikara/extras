@@ -1,6 +1,6 @@
 # Μέθοδος{.title}
 
-~~~{.quote}
+~~~{.quote include=buxton-method.md}
 ~~~
 
 ## Περίληψη 

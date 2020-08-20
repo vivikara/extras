@@ -1,5 +1,5 @@
 # Εισαγωγή{.title}
 
-~~~{.quote}
+~~~{.quote include=holt-learning.md}
 ~~~
 

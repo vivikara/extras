@@ -1,6 +1,6 @@
 # Μοντέλα{.title}
 
-~~~{.quote}
+~~~{.quote include=dyson-models.md}
 ~~~
 
 ## Περίληψη

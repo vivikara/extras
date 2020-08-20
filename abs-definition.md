@@ -1,6 +1,6 @@
 # Ορισμός{.title}
 
-~~~{.quote}
+~~~{.quote include=victor-definition.md}
 ~~~
 
 ## Περίληψη 

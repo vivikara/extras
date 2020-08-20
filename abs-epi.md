@@ -1,5 +1,5 @@
 # Επίλογος{.title}
 
-~~~{.quote}
+~~~{.quote include=picasso-do.md}
 ~~~
 

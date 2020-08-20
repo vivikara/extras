@@ -1,6 +1,6 @@
 # Αρχέτυπα{.title}
 
-~~~{include=quo-archetypes.yml .quote}
+~~~{.quote include=kay-invent.md}
 ~~~
 
 ## Περίληψη 
